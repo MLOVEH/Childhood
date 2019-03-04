@@ -1,4 +1,4 @@
-﻿/*website-css*/
+/*website-css*/
 .header {
             position: fixed;
             width:100%;
@@ -137,8 +137,9 @@ a {
         display: block;
 }
 a:hover {
-    color: pink;
+    color: red;
     font-size: 18px;
+    background-color: rgba(238,208,205,0.40);
     }
 a:active {
     font-size: 20px;
