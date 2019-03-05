@@ -19,6 +19,15 @@
             left:0;
             top:100px;
 }
+.git {
+    width: 240px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+.git a{
+    color: #7F8486;
+}
 .nav-content {
             margin:0px auto;
             background-size: cover;
@@ -129,6 +138,7 @@ body {
         }
 
 a {
+    text-decoration: none;
         font-weight:700;
         font-size:16px;
         width:100%;
